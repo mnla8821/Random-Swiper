@@ -21,6 +21,7 @@ Task that show ypu that you could to make also a random swiper.
 ## Technologies Used
 
 - **React**: For building the user interface.
+- **Css**: For designing the interface.
 - **Bootstrap**: For styling the UI.
 
 ## Screenshot 
