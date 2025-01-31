@@ -24,7 +24,7 @@ Task that show ypu that you could to make also a random swiper.
 - **Bootstrap**: For styling the UI.
 
 ## Screenshot 
-src/Assets/swiper.png
+![Illustrative Image](src/Assets/swiper.png)
 
 
    
